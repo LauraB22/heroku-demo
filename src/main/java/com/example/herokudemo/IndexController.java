@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.CrossOrigin;
 
 @RestController
-@CrossOrigin(origins = "https://laurab22.github.io/Proyecto-Ingenieria-Web/Home.html")
+@CrossOrigin(origins = "*")
 
 public class IndexController {
     @GetMapping("/")
