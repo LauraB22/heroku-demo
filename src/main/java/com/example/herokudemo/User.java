@@ -1,3 +1,4 @@
+/*
 package com.example.herokudemo;
 
 import javax.persistence.Entity;
@@ -39,3 +40,4 @@ import javax.persistence.Id;
             this.email = email;
         }
     }
+*/
